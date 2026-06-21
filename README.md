@@ -1,4 +1,4 @@
-# 🧠 Complete Deep Learning Bootcamp 2025
+# 🧠 Complete Deep Learning Bootcamp 2025 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mdzaheerjk/Complete-Deep-Learning-Bootcamp-2025/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
